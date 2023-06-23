@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"nama":"Fox, crab-eating","kategori":"Aquamarine"},
+    {"id":2,"nama":"Heron, striated","kategori":"Crimson"},
+    {"id":3,"nama":"Common pheasant","kategori":"Turquoise"},
+    {"id":4,"nama":"Vulture, egyptian","kategori":"Indigo"},
+    {"id":5,"nama":"Green-winged trumpeter","kategori":"Crimson"},
+    {"id":6,"nama":"Skink, blue-tongued","kategori":"Indigo"},
+    {"id":7,"nama":"Trumpeter, dark-winged","kategori":"Mauv"},
+    {"id":8,"nama":"Cat, civet","kategori":"Khaki"},
+    {"id":9,"nama":"Arctic fox","kategori":"Crimson"},
+    {"id":10,"nama":"White-winged black tern","kategori":"Fuscia"},
+    {"id":11,"nama":"Eastern quoll","kategori":"Green"},
+    {"id":12,"nama":"Beaver, american","kategori":"Fuscia"},
+    {"id":13,"nama":"Boa, cook's tree","kategori":"Blue"},
+    {"id":14,"nama":"Common zorro","kategori":"Green"},
+    {"id":15,"nama":"Fox, arctic","kategori":"Maroon"},
+    {"id":16,"nama":"Savanna baboon","kategori":"Violet"},
+    {"id":17,"nama":"Guanaco","kategori":"Turquoise"},
+    {"id":18,"nama":"Tortoise, burmese black mountain","kategori":"Mauv"},
+    {"id":19,"nama":"Gull, dusky","kategori":"Crimson"},
+    {"id":20,"nama":"North American porcupine","kategori":"Goldenrod"}
+  ]
+}
